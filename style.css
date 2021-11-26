@@ -12,3 +12,6 @@ h1{color:grey;font-family:verdana}
     margin: auto /* apparently align is unknown property*/
 }
 
+.highlight {
+    background-color: yellow;
+  }
